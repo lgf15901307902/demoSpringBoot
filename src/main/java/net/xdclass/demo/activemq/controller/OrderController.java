@@ -60,6 +60,11 @@ public class OrderController {
 	  public static void main(String[] args) {
 		
 		  System.out.println("one update");
+		  
+		  System.out.println("two update");
+
+		  System.out.println("two update");
+
 	}
 	
 	
