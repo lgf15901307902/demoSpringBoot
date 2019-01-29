@@ -57,7 +57,10 @@ public class OrderController {
 	
 	
 	
-	
+	  public static void main(String[] args) {
+		
+		  System.out.println("one update");
+	}
 	
 	
 	
@@ -76,6 +79,8 @@ public class OrderController {
 //	public Object comment(String msg) throws MQClientException, RemotingException, MQBrokerException, InterruptedException, UnsupportedEncodingException{
 //	  
 //		/**
+	
+	
 //        * 创建一个消息实例，包含 topic、tag 和 消息体           
 //       */
 //       Message message = new Message("commentTopic","add", msg.getBytes(RemotingHelper.DEFAULT_CHARSET));
